@@ -6,4 +6,11 @@ On the questions card that appears on the screen, the question, the options that
 
 After the test is over, the card showing the score comes. This card dynamically shows how many of the questions were answered correctly. There are also "Restart" and "Finish Test" buttons on this card. When the restart button is clicked, the test starts again from the first question. When the end of the test button is clicked, the "Start Quiz" screen appears.
 
-![image](https://user-images.githubusercontent.com/58391821/226114209-c146d86c-9ed5-43d8-9fcc-0d91178b8d02.png)
+![image](https://user-images.githubusercontent.com/58391821/226114242-ff0a3d5e-06f0-43cc-9693-e96ca199c944.png)
+
+![image](https://user-images.githubusercontent.com/58391821/226114262-2abbcc33-40f3-4cdf-a2b4-92541c877f6c.png)
+
+![image](https://user-images.githubusercontent.com/58391821/226114282-8c260add-9669-44d2-a5a6-a9a7842a2213.png)
+
+![image](https://user-images.githubusercontent.com/58391821/226114290-60989eea-8077-45f0-b7ca-19af3872805c.png)
+
